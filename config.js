@@ -11,6 +11,7 @@ const API_BASE_BILLER = '/ms-biller/';
 const API_BASE_REPORT = '/ms-report/';
 const API_BASE_PROMO = '/ms-promo/';
 const API_BASE_REPORT_DATAMART = '/svc-data-reporting/';
+const API_BASE_EMENU_UTILITIES = '/ms-e-menu-utilities/';
 
 const colors = [{
         pointBorderColor: '#00b7b5', // green
@@ -61,4 +62,5 @@ export {
     API_BASE_REPORT,
     API_BASE_REPORT_DATAMART,
     API_BASE_PROMO,
+    API_BASE_EMENU_UTILITIES,
 };
